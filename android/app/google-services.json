@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "267965061126",
+    "project_id": "cgc-event-offical",
+    "storage_bucket": "cgc-event-offical.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267965061126:android:2a5fd42e52f240fcb28b87",
+        "android_client_info": {
+          "package_name": "com.developerAbhijeet.cgcevent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267965061126-fsbp30aojls7cfjaog37f8mopjc0ll0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk-oZFNmxAq1dlAF6qBIucZWQCEnlj48Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267965061126-fsbp30aojls7cfjaog37f8mopjc0ll0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
